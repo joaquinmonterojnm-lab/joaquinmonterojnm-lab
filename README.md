@@ -6,7 +6,7 @@
 
 
 ##
-<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="180px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJubzU0czM1dWczM2RoMGhtODBqd20wZDVmMW50bWF6amZ4YnZobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OvmPxpHMdmUhuza7ZO/giphy.gif" />
 
 - 🧑‍🎓 Estudiante de la carrera <a href="https://phoenix.tech/griffyn/" target="blank">Comunicación Multimedial</a>
 
