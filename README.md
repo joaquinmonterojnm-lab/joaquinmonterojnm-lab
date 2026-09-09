@@ -34,3 +34,8 @@
 <a href= "https://www.tiktok.com/@joaccmontero?lang=es">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
+
+##
+<img  width="400px" src="https://github-readme-stats.vercel.app/api?username=joaquinmonterojnm-lab&show_icons=true&theme=radical" /> 
+<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=joaquinmonterojnm-lab&theme=radical">
+<img  src="https://activity-graph.herokuapp.com/graph?usernamejoaquinmonterojnm-lab&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
